@@ -7,4 +7,4 @@ quadropus - USB to quad UART bridge
 
 Licensed under:
 
-![](/_asset/license.png)
+![](/assets/license.png)

@@ -831,7 +831,7 @@ $EndComp
 Wire Wire Line
 	5900 7600 6600 7600
 Text Label 6100 7600 0    50   ~ 0
-GPIO_0
+GPIO_1
 $Comp
 L Device:R_Small R4
 U 1 1 605A62B5
@@ -863,7 +863,7 @@ Wire Wire Line
 Wire Wire Line
 	5900 8000 6600 8000
 Text Label 6100 8000 0    50   ~ 0
-GPIO_4
+GPIO_5
 $Comp
 L Device:R_Small R5
 U 1 1 605AB75B
@@ -894,7 +894,7 @@ Wire Wire Line
 Wire Wire Line
 	5900 8400 6600 8400
 Text Label 6100 8400 0    50   ~ 0
-GPIO_8
+GPIO_9
 Wire Wire Line
 	5050 8800 4800 8800
 Wire Wire Line
@@ -950,7 +950,7 @@ $EndComp
 Wire Wire Line
 	8400 7600 9100 7600
 Text Label 8600 7600 0    50   ~ 0
-GPIO_1
+GPIO_0
 Connection ~ 7300 7600
 Wire Wire Line
 	7300 8800 7300 8400
@@ -983,7 +983,7 @@ Wire Wire Line
 Wire Wire Line
 	8400 8000 9100 8000
 Text Label 8600 8000 0    50   ~ 0
-GPIO_5
+GPIO_4
 $Comp
 L Device:R_Small R10
 U 1 1 605D9371
@@ -1013,7 +1013,7 @@ Wire Wire Line
 Wire Wire Line
 	8400 8400 9100 8400
 Text Label 8600 8400 0    50   ~ 0
-GPIO_9
+GPIO_8
 $Comp
 L Device:R_Small R11
 U 1 1 605ED4F3
@@ -1043,9 +1043,9 @@ Wire Wire Line
 Wire Wire Line
 	8400 8800 9100 8800
 Text Label 8600 8800 0    50   ~ 0
-GPIO_13
-Text Label 6100 8800 0    50   ~ 0
 GPIO_12
+Text Label 6100 8800 0    50   ~ 0
+GPIO_13
 Wire Wire Line
 	5900 8800 6600 8800
 Wire Wire Line
